@@ -1,11 +1,13 @@
 # _stock_SQLite_GUI_Tkinter_
-
+The stock SQLite GUI application could store the data.
+![image](./stock_db.png)
+db.py
 ```
 from tkinter import *
 import sqlite3
 
 root = Tk()
-
+root.title("股價資料庫")
 
 # Create a database or connect to one
 conn = sqlite3.connect('stock.db')

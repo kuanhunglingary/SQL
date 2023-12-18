@@ -2,7 +2,7 @@ from tkinter import *
 import sqlite3
 
 root = Tk()
-
+root.title("股價資料庫")
 
 # Create a database or connect to one
 conn = sqlite3.connect('stock.db')
