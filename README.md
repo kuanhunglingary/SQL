@@ -8,4 +8,5 @@ Export SQL Tables To Excel with Python (NeuralNine)
 https://www.youtube.com/watch?v=m9cFBVLDB2c 
 
 # Convert an Apple Healthkit export zip to a PostgreSQL database
+[jupyter notebook](./healthkit_to_postgresql.ipynb)
 [code](./healthkit_to_postgresql.py)
