@@ -11,5 +11,5 @@ https://www.youtube.com/watch?v=m9cFBVLDB2c
 [jupyter notebook](./healthkit_to_postgresql.ipynb) <br>
 [code](./healthkit_to_postgresql.py)
 
-# Check the invoices
+# Check the invoices via PostgreSQL
 Create the database "invoices", and then create the tables "invoice_books" and "invoices". Insert the correct and incorrect values. Check the incorrect values of invoices.
